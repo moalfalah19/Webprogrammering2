@@ -6,7 +6,7 @@ GitHub brukernavn: moalfalah19
 
 GitHub repo URL: https://github.com/DATA1700/oblig-2-moalfalah19.git
 
-URL til Heroku app: 
+URL til Heroku app: https://oblig2mohanad.herokuapp.com
 
 Fullt navn: 
 
